@@ -5,7 +5,7 @@
 `pip install requirements.txt`
 
 
-## 2. Run `download.py` to download the files in EPSG
+## 2. Run `download.py` to download the files in EPSG 3857
 
 ## 3. `transform.py`
 
